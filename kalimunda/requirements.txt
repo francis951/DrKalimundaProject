@@ -1,0 +1,25 @@
+functionlies of the dawa application
+user registration
+login and logout
+index page
+stick
+sales report
+stocking listing> products
+'''
+    1. modeliing and object called products
+    2. category
+    3. product name
+    4. batch numkber
+    5. issued qualities and qualitiy received
+    6. Unit price
+    
+'''
+
+'''
+modeling sale
+1. item sold
+3. quantity sold
+4. issued to/buyer
+5. unit price
+6. amount recieved
+'''
